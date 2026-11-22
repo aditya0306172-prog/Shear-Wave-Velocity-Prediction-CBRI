@@ -1,0 +1,19 @@
+KiK-net Data Extraction Audit Log
+========================================
+Total Directories Scanned: 1014
+Successfully Parsed Stations: 1014
+Stations Missing TXT Files: 0
+----------------------------------------
+Total Extracted Rows: 15707
+Rows Dropped (Missing Target Vs): 0
+Final Clean Dataset Rows: 15707
+----------------------------------------
+Missing Values by Feature:
+Station_ID        0
+Depth_m           0
+N_Value           0
+Vp_m_s            0
+Vs_m_s            0
+Density_g_cm3     0
+Lithology_Code    0
+Lithology         0
